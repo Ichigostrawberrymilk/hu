@@ -1,0 +1,134 @@
+body{
+	margin:0;
+}
+.bg{
+	
+	background-color: #20263b;
+}
+.bruh{
+	flex-wrap: wrap;
+    justify-content: center;
+	padding:20px;
+    justify-content: space-between;
+	display: flex;
+    align-items: center;
+    
+	border:3px solid #ffffff;
+	opacity:0.9;
+	background-image:url("aesthetic.png");
+    margin: 15px;
+}
+
+	
+.taas{
+	min-width:97px;
+	font-size-adjust: auto;
+	display:flex;
+	font-family: 'Noto Sans JP', sans-serif;
+	color:#ffffff;
+	flex-direction: column;
+	    align-items: center;
+
+    
+}
+.wata{
+	flex-shrink:30;
+}
+h1 {
+	margin:0;
+	
+}
+h5{
+	margin:0;
+}
+.shino{
+	height:150px;
+	width:150px;
+	position:absolute;
+	border:3px solid #ffffff;
+	
+}
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 700,
+  'GRAD' 0,
+  'opsz' 48
+}
+.l{
+	font-family: 'Noto Sans JP', sans-serif;
+	color:#ffffff;
+}
+.ayaya{
+	display: flex;
+    align-items: center;
+	padding:0;
+	margin:0;
+	flex-wrap: wrap;
+    justify-content: center;
+}
+.ugh{
+		margin-right:20px;
+}
+.oye{
+	font-size-adjust: auto;
+	display:flex;
+	font-family: 'Noto Sans JP', sans-serif;
+	color:#ffffff;
+	flex-direction: column;
+}
+
+.eh{
+	margin-top:20px;
+	text-align:center;
+	font-family: 'Noto Sans JP', sans-serif;
+	color:#ffffff;
+}
+.hurb{
+	flex-wrap: nowrap;
+    justify-content: center;
+	padding:20px;
+    
+	display: flex;
+    align-items: center;
+    justify-content: center;
+	border:3px solid #ffffff;
+	opacity:0.9;
+	background-image:url("aesthetic.png");
+    margin: 15px;
+	flex-direction: column;
+}
+.wow{
+	display:flex;
+}
+.boboyobe{
+	margin-top:10px;
+	border:3px solid  #ffffff;
+	color: #ffffff;
+	padding:5px;
+	padding-right:30px;
+	
+}
+.hellnah{
+	color: #ffffff;
+	padding:5px;
+	margin-top:10px;
+	background-color:#AB273D;
+}
+p{
+	font-family: 'Noto Sans JP', sans-serif;
+	color:#ffffff;
+	margin:0;
+}
+.owo{
+	margin:20px 0px;
+	border-bottom:3px solid #ffffff;
+	width:100%;
+}
+.lickemtoes{
+	position:relative;
+	bottom:0px;
+	text-align:center;
+	padding:10px 0px 0px;
+	width:100%;
+}
